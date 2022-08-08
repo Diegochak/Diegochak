@@ -25,6 +25,10 @@ Hi coders....
   <img align="center" alt="Iury-VSCode" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <!--links-->     
 <br>
+
+##
+
+<br>
 <div>
 <a href="https://www.instagram.com/diegoaffonso_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diego-affonso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
