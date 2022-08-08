@@ -1,11 +1,14 @@
+Hi coders....
 
-          * 🔭 I’m currently working as a freelancer looking for front-end developer job  
-          (:brazil:) _Estou atualmente trabalhando como freelancer e procurando emprego como desenvolvedor front-end_
-                    * 🌱 I’m currently learning **JavaScript**, **React**, **Angular**, **Vuejs**  
-                    (:brazil:) _Estou atualmente aprendendo **JavaScript**, **React**, and **Angular**_, **Vuejs**  
-                    
+* 🔭 I’m currently working as a freelancer looking for front-end developer job  
+(:brazil:) _Estou atualmente trabalhando como freelancer e procurando emprego como desenvolvedor front-end_
+* 🌱 I’m currently learning **JavaScript**, **React**, **Angular**, **Vuejs**  
+(:brazil:) _Estou atualmente aprendendo **JavaScript**, **React**, and **Angular**_, **Vuejs**  
+<br> 
+  
 ##
 
+<br>
 <!-- Estatísticas-->
 <div align="center">
   <a href="https://https://github.com/Diegochak">
