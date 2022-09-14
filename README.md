@@ -1,9 +1,9 @@
 ### Hi coders....
 
 * 🔭 I’m currently working as a freelancer looking for front-end developer job  
-(:brazil:) _Estou atualmente trabalhando como freelancer e procurando emprego como desenvolvedor front-end_
-     * 🌱 I’m currently learning **React**, **Angular** and **Vuejs**  
-     (:brazil:) _Estou atualmente aprendendo  **React**, **Angular** and **Vuejs**_ 
+(:brazil:) _Estou atualmente trabalhando como freelancer e procurando uma oportunidade como desenvolvedor front-end_
+     * 🌱 I’m currently learning **React**, ** Flutter** and **Vuejs**  
+     (:brazil:) _Estou atualmente aprendendo  **React**,  ** Flutter**  and **Vuejs**_ 
 <br>  
   
 ##
