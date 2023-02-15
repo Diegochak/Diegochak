@@ -1,7 +1,7 @@
 ### Hi coders....
 
-* 🔭 I’m currently working at DEVEX Soluções as JR front-end developer_   
-(:brazil:) _Estou atualmente trabalhando pela DEVEX Soluções como front-end JR_
+* 🔭 I’m currently working at DEVEX Soluções as front-end developer_   
+(:brazil:) _Estou atualmente trabalhando pela DEVEX Soluções como front-end _
      * 🌱 I’m currently learning **React**, **Flutter** and **Vuejs**_  
      (:brazil:) _Estou atualmente aprendendo  **React**,  **Flutter**  and **Vuejs**_ 
 <br>  
