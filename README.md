@@ -1,7 +1,7 @@
 ### Hi coders....
 
 * 🔭 I’m currently working at Infosafe as Cyberscurity analyst_   
-(:brazil:) _Estou atualmente trabalhando pela Infosafe como Analista de cybersegurança _
+Pt-BR _ Estou atualmente trabalhando pela Infosafe como Analista de cybersegurança _
 
 
 ##
